@@ -27,6 +27,14 @@
   ],
   "author": "Szakacs Media Company",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tszaks/apple-notes-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tszaks/apple-notes-mcp/issues"
+  },
+  "homepage": "https://github.com/tszaks/apple-notes-mcp#readme",
   "engines": {
     "node": ">=20"
   },
